@@ -1,11 +1,11 @@
 idDHTLib
 =======
 
-Interrupt driven DHT11 & DHT22 library
+Interrupt driven DHT11 & DHT22 library for mbed
 
 	VERSION: 	0.0.3
 
-	PURPOSE: 	Interrupt driven Lib for DHT11 and DHT22 with Arduino.
+	PURPOSE: 	Interrupt driven Lib for DHT11 and DHT22 for mbed.
 
 	LICENCE:	GPL v3 (http://www.gnu.org/licenses/gpl.html)
 
@@ -18,6 +18,8 @@ Interrupt driven DHT11 & DHT22 library
 	Based on DHTLib library: http://playground.arduino.cc/Main/DHTLib
 
 	Based on code proposed: http://forum.arduino.cc/index.php?PHPSESSID=j6n105kl2h07nbj72ac4vbh4s5&topic=175356.0
+    
+    Mbed port of Arduino library: https://github.com/niesteszeck/idDHTLib
 
 	Changelog:
 	
